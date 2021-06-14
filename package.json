@@ -1,6 +1,6 @@
 {
   "name": "prisma-cascade-delete",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package that exports a function to cascade-delete records in prisma v2",
   "main": "src/index.js",
   "scripts": {
